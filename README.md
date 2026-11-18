@@ -1,4 +1,4 @@
-# 音乐实验室 V1 · QPlayer-inspired Android music player
+# 基于vibe coding的音乐实验室 V1 · QPlayerStyleMusic
 
 一个独立的 Android 音乐播放器 **源码示例**，安卓端布局参考Qplayer安卓端播放器界面，基于Salt UI开发。
 
