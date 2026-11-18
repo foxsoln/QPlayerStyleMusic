@@ -1,0 +1,10 @@
+{
+  "id": "demo.local",
+  "name": "离线演示音源",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "entry": "main.js",
+  "description": "验证自行编写的 JavaScript 插件可被安装并执行。无网络权限，不提供真实在线音乐。",
+  "capabilities": ["getInfo", "search"],
+  "permissions": []
+}

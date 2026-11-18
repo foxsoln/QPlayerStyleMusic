@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- 仅 debug 允许经 ADB reverse 连接 127.0.0.1 的 HTTP 研发后端；Release 必须使用 HTTPS。 -->
+    <application android:usesCleartextTraffic="true"
+        tools:replace="android:usesCleartextTraffic" />
+</manifest>
