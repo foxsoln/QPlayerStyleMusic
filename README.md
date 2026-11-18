@@ -76,6 +76,11 @@ powershell -ExecutionPolicy Bypass -File .\setup-gradle-windows.ps1
 | `data/MusicScanner.kt` | Android MediaStore 扫描 |
 | `viewmodel/MusicViewModel.kt` | 各屏共享状态、MediaController |
 | `playback/MusicPlaybackService.kt` | Media3 ExoPlayer + MediaSessionService |
+## APP运行示例
+<img width="1440" height="3168" alt="Screenshot_2026-11-18-17-35-47-31_35825b49281837" src="https://github.com/user-attachments/assets/2084e2a4-5db3-4509-ba80-dd3bc10bb44a" />
+<img width="1440" height="3168" alt="Screenshot_2026-11-18-17-35-53-42_35825b49281837" src="https://github.com/user-attachments/assets/19b87168-0754-4c01-91e5-cf62e135feff" />
+<img width="1440" height="3168" alt="Screenshot_2026-11-18-17-35-54-88_35825b49281837" src="https://github.com/user-attachments/assets/e73dfc1b-2637-44b4-b7e6-dbc03d78b6c8" />
+<img width="1440" height="3168" alt="Screenshot_2026-11-18-17-36-11-27_35825b49281837" src="https://github.com/user-attachments/assets/b0422878-0bc0-480d-aa6c-b64389e1c15f" />
 
 ## 后续开发建议
 
